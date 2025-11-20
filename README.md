@@ -1,7 +1,7 @@
 # Ex04 Places Around Me
-## Name: HARI PRASATH E
-## Ref No: 25007799
-## Date: 21-09-2025
+## Name: Gayathri D
+## Ref No: 212224220028
+
 
 ## AIM
 To develop a website to display details about the places around my house.
